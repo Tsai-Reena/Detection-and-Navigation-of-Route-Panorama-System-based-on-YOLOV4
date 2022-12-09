@@ -14,9 +14,5 @@ As a result of these reasons, most people will not be able to determine their ex
 For the reasons above, we have developed a "Trek Helper System" based on the theme of environmental images of the campus of National Taipei University of Education, showing a system that can directly take pictures of the surrounding environment and solve the detailed position recognition that cannot be achieved by ordinary satellite navigation. In this system, the user can open the lens to take pictures to achieve the requirements of determining the exact position of the use. After detecting the user's current location, the system will also analyze the current location situation, route planning, and give a clear travel route after the user enters the needs of the purpose. Different from the traditional campus map or playground sightseeing guide map, this system is an extension of satellite navigation and will be the the basis for the AI intelligent tour guides in the future.  
 
 
-2. Literature Review  
-**2.1  Methods of Path Planning**  
-*2.1.1  Two-Stage Path Planning*  
-Two-Stage Path Planning is mainly to divide the path into different levels according to a certain method and then do planning, such as: national highways, provincial roads, county roads, etc. When planning, first find the higher level of the level path between the starting point and the end point, and then connect the original starting and ending points with the lower level of the stratum path, as shown in Figure 2.1.  
-![](./images/02-1.jpg)
-*Figure 2.1*
+2. **Introduction to System Functionality**  
+In this system (as shown in Figure 1), the users can determine their exact position by opening the lens to take pictures. After detecting the user's current location, the system will also analyze the current location situation, carry out route planning, and give a clear travel route after the user enters the demand of the purpose.
