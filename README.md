@@ -16,3 +16,4 @@ For the reasons above, we have developed a "Trek Helper System" based on the the
 
 2. **Introduction to System Functionality**  
 In this system (as shown in Figure 1), the users can determine their exact position by opening the lens to take pictures. After detecting the user's current location, the system will also analyze the current location situation, carry out route planning, and give a clear travel route after the user enters the demand of the purpose.
+![Figure 1](./images/01.jpg)
