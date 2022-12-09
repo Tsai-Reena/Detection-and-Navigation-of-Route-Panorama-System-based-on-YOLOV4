@@ -42,25 +42,25 @@ This system is mainly designed for visitors who are **not familiar with the camp
 
 6. **Development Method**
 Step.01  LabelImage  
-<img src="./images/02.png" width="80%">
+<img src="./images/02.png">
 
 Step.02  Model Training: the process is shown in the following figure
-<img src="./images/03.png" width="80%">
+<img src="./images/03.png">
 
 Step.03  Model Training Results and Tests
-<img src="./images/04.png" width="80%">
+<img src="./images/04.png"">
 
 Step.04  Rrocess of Image Recognition
-<img src="./images/05.png" width="80%">
+<img src="./images/05.png">
 
 Step.05  Flask Runner (Simple)
-<img src="./images/06.png" width="80%">
+<img src="./images/06.png">
 
 Step.06  Flask: Web Image Upload
-<img src="./images/07.png" width="80%">
+<img src="./images/07.png">
 
 Step.07  Landmark and Route Navigation
-<img src="./images/08.jpg" width="80%">
+<img src="./images/08.jpg">
 
 
 7. **Conclusion**  
